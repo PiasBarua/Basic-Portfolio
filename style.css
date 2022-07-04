@@ -14,6 +14,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -40,4 +41,11 @@ section {
     background-repeat: no-repeat;
 
 
+}
+
+.Dream-Big {
+    background-image: url(Protfolio-images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 8%;
 }
